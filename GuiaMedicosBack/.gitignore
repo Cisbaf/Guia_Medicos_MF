@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+/dados.csv
+/dados_corrigidos.csv
+/Dockerfile
+GuiaMedicosBack/src/main/resources/application.properties
+/docker-compose.yml
